@@ -264,8 +264,11 @@ async def main():
     streams = []
     for category in data.get("streams", []):
         cat = category.get("category", "").strip() or "Misc"
-        if cat not in ALLOWED_CATEGORIES:
-            ALLOWED_CATEGORIES.add(cat)
+
+        # ⬇️ 新增：只处理 Basketball
+        if cat != "Basketball":
+            continue
+
         for stream in category.get("streams", []):
             iframe = stream.get("iframe") 
             name = stream.get("name", "Unnamed Event")
