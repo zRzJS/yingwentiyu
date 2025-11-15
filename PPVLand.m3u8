@@ -1,4 +1,10 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/2c3f251e48e4047c8ff1cf3054cf0f7b-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Ohio Bobcats vs. Louisville Cardinals
+https://gg.poocloud.in/CW/index.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/808bffef55503846bdca106ec2607e94-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Princeton Tigers vs. Kansas Jayhawks
+https://gg.poocloud.in/cbb-1/index.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/b9f6d09e7104a8b848333d51b8b06923-thumbnail.jpg" group-title="PPVLand - Basketball Hub",William & Mary Tribe vs. St. John's Red Storm
+https://gg.poocloud.in/truTV/index.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/c7c1389748bf0324afa0f03b4d50af2f-thumbnail.jpg" group-title="PPVLand - Basketball Hub",BYU Cougars vs. UConn Huskies
 https://gg.poocloud.in/FOX/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/0933ce84fd0f7bd32d3c4b331e2fe397-thumbnail.jpg" group-title="PPVLand - Live Now",Wisconsin Badgers vs. Indiana Hoosiers
@@ -20,6 +26,6 @@ https://gg.poocloud.in/wc_tur/index.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/fd86e0ef4e8b1b761a099e8bdebb9918-thumbnail.jpg" group-title="PPVLand - Live Now",Georgia vs. Spain
 https://gg.poocloud.in/wc_geo/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/0b712cf75766c45c36b78b528c904149-thumbnail.jpg" group-title="PPVLand - Live Now",Cyprus vs. Austria
-https://gg.poocloud.in/wc_cyp/index.m3u8
+https://gg.poocloud.in/wc_cyp/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/c4c382239fc0f0072c98ce7c44a919fc-thumbnail.jpg" group-title="PPVLand - Live Now",Liechtenstein vs. Wales
-https://gg.poocloud.in/wc_lie/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/wc_lie/index.m3u8
