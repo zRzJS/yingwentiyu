@@ -1,4 +1,6 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/004b8c4a5ad53813eb31a5d4c0128dfe-thumbnail.jpg" group-title="PPVLand - Live Now",Washington Commanders vs. Miami Dolphins
+https://gg.poocloud.in/miamidolphins/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/b09ec5417e8f5831860f91a0a8ea5e2b-thumbnail.jpg" group-title="PPVLand - Live Now",Grand Slam of Darts - Day 9 Afternoon
 https://gg.poocloud.in/darts/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/8e1b6d1e94574135e2a692efeffcbb87-thumbnail.jpg" group-title="PPVLand - Live Now",Hungary vs. Republic of Ireland
@@ -6,4 +8,4 @@ https://gg.poocloud.in/wc_hun/index.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/53633da974263321b0df3e01f3ed9101-thumbnail.jpg" group-title="PPVLand - Live Now",Portugal vs. Armenia
 https://gg.poocloud.in/wc_por/index.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/53173faf0c39ecedb5f8caa455697b11-thumbnail.jpg" group-title="PPVLand - Live Now",Nashville Predators vs. Pittsburgh Penguins
-https://gg.poocloud.in/pittsburghpenguins/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/pittsburghpenguins/index.m3u8
