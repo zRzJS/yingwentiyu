@@ -1,11 +1,9 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/004b8c4a5ad53813eb31a5d4c0128dfe-thumbnail.jpg" group-title="PPVLand - Live Now",Washington Commanders vs. Miami Dolphins
-https://gg.poocloud.in/miamidolphins/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/0e930db0eba74eb066768ae10dce5aeb-thumbnail.jpg" group-title="PPVLand - Live Now",Ukraine vs. Iceland
-https://gg.poocloud.in/wc_ukr/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/wc_ukr/index.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/51f85ddf83900165d723ff2798ea34ee-thumbnail.jpg" group-title="PPVLand - Live Now",Serbia vs. Latvia
-https://gg.poocloud.in/wc_srb/index.m3u8
+https://gg.poocloud.in/wc_srb/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/d442f1c8eab98bc13d7fa6ede5ce6b93-thumbnail.jpg" group-title="PPVLand - Live Now",Albania vs. England
 https://gg.poocloud.in/wc_alb/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/928f7c5eab74f3b4befb9003ed257efa-thumbnail.jpg" group-title="PPVLand - Live Now",Azerbaijan vs. France
-https://gg.poocloud.in/wc_aze/index.m3u8
+https://gg.poocloud.in/wc_aze/tracks-v1a1/mono.ts.m3u8
