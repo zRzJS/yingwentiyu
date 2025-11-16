@@ -1,9 +1,5 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/346e68c05fd70bc1addf86c1bf3f4fed-thumbnail.jpg" group-title="PPVLand - Live Now",TCU Horned Frogs vs. BYU Cougars
-https://gg.poocloud.in/ESPN/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/ESPN/index.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/f752b3f8b3a333d521202fba6c8e0d24-thumbnail.jpg" group-title="PPVLand - Live Now",UFC 322: Della Maddalena vs. Makhachev
 https://gg.poocloud.in/ufc/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/b8b4ae455fe27d97fa5bf0bf5401096b-thumbnail.jpg" group-title="PPVLand - Live Now",Winnipeg Jets vs. Calgary Flames
-https://gg.poocloud.in/calgaryflames/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/5fa24c8cf2b3b7aa09e1258df71c7d1f-thumbnail.jpg" group-title="PPVLand - Live Now",San Jose Sharks vs. Seattle Kraken
-https://gg.poocloud.in/seattlekraken/index.m3u8
