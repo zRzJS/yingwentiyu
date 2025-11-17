@@ -1,9 +1,15 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/aedda10dd77576c5e2d80e1a13554e7e-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Milwaukee Bucks vs. Cleveland Cavaliers
+https://gg.poocloud.in/nba_clevelandcavaliers/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/b1bcd80c5a15a7ff45c30c374359b3e7-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Indiana Pacers vs. Detroit Pistons
+https://gg.poocloud.in/nba_detroitpistons/index.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/fe5dd6f4cb575aee8978f8cbecbae0c8-thumbnail.jpg" group-title="PPVLand - Basketball Hub",LA Clippers vs. Philadelphia 76ers
+https://gg.poocloud.in/nba_philadelphia76ers/index.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/3e4c372a98f6748fcae479a0014d5975-thumbnail.jpg" group-title="PPVLand - Basketball Hub",VCU Rams vs. NC State Wolfpack
-https://gg.poocloud.in/ACCN/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/ACCN/index.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/18d9df6533f338a6806cfc393e91172d-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Stonehill Skyhawks vs. Iowa State Cyclones
 https://gg.poocloud.in/cbb-1/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/3f774191c798de5ec3b9d1ef3e99d862-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Rice Owls vs. Tennessee Volunteers
-https://gg.poocloud.in/SECN/index.m3u8
+https://gg.poocloud.in/SECN/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/b0d4e9b19dae4a350abee5f235f5e08e-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Southern Utah Thunderbirds vs. Gonzaga Bulldogs
 https://gg.poocloud.in/cbb-2/index.m3u8
