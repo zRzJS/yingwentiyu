@@ -1,1 +1,21 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/8be3f61f283d6a579b11fb7562f113ee-thumbnail.jpg" group-title="PPVLand - Live Now",Austria vs. Bosnia and Herzegovina
+https://gg.poocloud.in/wc_aut/index.m3u8
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/95ad550d7814d5862be32fb658e7bc4e-thumbnail.jpg" group-title="PPVLand - Live Now",Sweden vs. Slovenia
+https://gg.poocloud.in/wc_swe/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/9b38865b248acea35b503d2e55162829-thumbnail.jpg" group-title="PPVLand - Live Now",Wales vs. North Macedonia
+https://gg.poocloud.in/wc_wal/index.m3u8
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/d809a7014be1a21b1d493fa8721cf1f2-thumbnail.jpg" group-title="PPVLand - Live Now",Romania vs. San Marino
+https://gg.poocloud.in/wc_rou/index.m3u8
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/cc6392de9aa3fcf345472c1bb3549617-thumbnail.jpg" group-title="PPVLand - Live Now",Kosovo vs. Switzerland
+https://gg.poocloud.in/wc_kos/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/3d865227cbaf2d17872dafc5b5fe7f33-thumbnail.jpg" group-title="PPVLand - Live Now",Scotland vs. Denmark
+https://gg.poocloud.in/wc_sco/index.m3u8
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/2e19dd7a6039953c2f598006a4869913-thumbnail.jpg" group-title="PPVLand - Live Now",Bulgaria vs. Georgia
+https://gg.poocloud.in/wc_bul/index.m3u8
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/e952200c3fb97aa1286bf30bb37a1341-thumbnail.jpg" group-title="PPVLand - Live Now",Belarus vs. Greece
+https://gg.poocloud.in/wc_blr/index.m3u8
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/b8a853c22605b8a34775cfcd79e7372d-thumbnail.jpg" group-title="PPVLand - Live Now",Spain vs. Türki̇ye
+https://gg.poocloud.in/wc_esp/index.m3u8
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/417c880e347e173be9181ee894ea0ae7-thumbnail.jpg" group-title="PPVLand - Live Now",Belgium vs. Liechtenstein
+https://gg.poocloud.in/wc_bel/index.m3u8
