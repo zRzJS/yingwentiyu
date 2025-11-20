@@ -1,7 +1,5 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/14c884073314efe5be787ac5642acd55-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Memphis Tigers vs. Purdue Boilermakers
-https://gg.poocloud.in/CBSSN/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/CBSSN/index.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/d6f177943c51da13e53908de40aa1704-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Bucknell Bison vs. St. John's Red Storm
-https://gg.poocloud.in/TNT/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/2a8f10d2c895d97ad6577a3398754fc2-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Rider Broncs vs. Houston Cougars
 https://gg.poocloud.in/TNT/tracks-v1a1/mono.ts.m3u8
