@@ -4,8 +4,4 @@ https://gg.poocloud.in/ESPN2/index.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/373cd5f181d219441b998189c820aa1c-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Detroit Mercy Titans vs. Michigan State Spartans
 https://gg.poocloud.in/ESPN2/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/e034463841c60b41e7a0302cabf8e34d-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Texas Tech Red Raiders vs. Purdue Boilermakers
-https://gg.poocloud.in/CBSSN/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/937a613e75ba921e035118b15ff2da6d-thumbnail.jpg" group-title="PPVLand - Live Now",Mainz vs. Hoffenheim
-https://gg.poocloud.in/darts/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/9d7c0f0a0e64af832b84a607befcadaa-thumbnail.jpg" group-title="PPVLand - Live Now",OGC Nice vs. OM
-https://gg.poocloud.in/bundesliga_m05/index.m3u8
+https://gg.poocloud.in/CBSSN/index.m3u8
