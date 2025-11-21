@@ -3,5 +3,7 @@
 https://gg.poocloud.in/ESPN2/index.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/373cd5f181d219441b998189c820aa1c-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Detroit Mercy Titans vs. Michigan State Spartans
 https://gg.poocloud.in/ESPN2/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/71c1c6eddca3be6dd1d4ed66c9107eb5-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Indiana Pacers vs. Cleveland Cavaliers (East Group A)
+https://gg.poocloud.in/nba_clevelandcavaliers/index.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/e034463841c60b41e7a0302cabf8e34d-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Texas Tech Red Raiders vs. Purdue Boilermakers
 https://gg.poocloud.in/CBSSN/index.m3u8
