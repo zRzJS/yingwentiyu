@@ -5,3 +5,7 @@ https://gg.poocloud.in/darts/tracks-v1a1/mono.ts.m3u8
 https://gg.poocloud.in/epl_bur/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/32c99f6a89f3f97eddb20eee23866588-thumbnail.jpg" group-title="PPVLand - Live Now",Deportivo Alavés vs. Celta
 https://gg.poocloud.in/ll_ala/index.m3u8
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/80237a844106498ab1eb19e067f38212-thumbnail.jpg" group-title="PPVLand - Live Now",Cagliari vs. Genoa
+https://gg.poocloud.in/seriea_cag/index.m3u8
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/5eb15da7480dc8b0aa8c0c82957022b9-thumbnail.jpg" group-title="PPVLand - Live Now",Udinese vs. Bologna
+https://gg.poocloud.in/seriea_udi/tracks-v1a1/mono.ts.m3u8
