@@ -1,1 +1,3 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/abcd4bd11c80c04825172a39f9c585c6-thumbnail.jpg" group-title="PPVLand - Live Now",Hellas Verona vs. Parma
+https://gg.poocloud.in/seriea_ver/tracks-v1a1/mono.ts.m3u8
