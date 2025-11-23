@@ -2,10 +2,10 @@
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/6b543476fa4872380c932f71807a0acb-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Sacramento Kings vs. Denver Nuggets
 https://gg.poocloud.in/nba_denvernuggets/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/1cb0085a4fae1ec08ad33b49beb05e8d-thumbnail.jpg" group-title="PPVLand - Live Now",Stars vs. Flames
-https://gg.poocloud.in/nhl_dal/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/nhl_dal/index.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/8f17f42b662b957473fe8a4cc4fd9992-thumbnail.jpg" group-title="PPVLand - Live Now",Golden Knights vs. Ducks
 https://gg.poocloud.in/nhl_vgk/index.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/ad652c26f1e7b8e8c36cf316f47f0d4b-thumbnail.jpg" group-title="PPVLand - Live Now",Las Vegas Grand Prix - Race
-https://gg.poocloud.in/f1/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/f1/index.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/0084ef60c486d43b0d1cea301e451fe0-thumbnail.jpg" group-title="PPVLand - Live Now",AEW: Full Gear
-https://gg.poocloud.in/aew/index.m3u8
+https://gg.poocloud.in/aew/tracks-v1a1/mono.ts.m3u8
