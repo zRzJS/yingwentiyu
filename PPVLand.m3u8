@@ -2,4 +2,10 @@
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/5b9a5ce79119092d9eedc98b88518062-thumbnail.jpg" group-title="PPVLand - Live Now",Players Championship Finals - Quarter Finals
 https://gg.poocloud.in/darts/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/e9cb7d85cd57e4ef7c9a3e07e2a2165e-thumbnail.jpg" group-title="PPVLand - Live Now",Real Oviedo vs. Rayo Vallecano
-https://gg.poocloud.in/ll_ovi/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/ll_ovi/index.m3u8
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/a77ed6830fc422254e5cb1dc4eeb04be-thumbnail.jpg" group-title="PPVLand - Live Now",Leeds United vs. Aston Villa
+https://gg.poocloud.in/epl_lee/index.m3u8
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/ebc24ee6c0ac8efff7d502facbdfa226-thumbnail.jpg" group-title="PPVLand - Live Now",Cremonese vs. Roma
+https://gg.poocloud.in/seriea_cre/index.m3u8
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/95f857c07992f5237151f714f2603efa-thumbnail.jpg" group-title="PPVLand - Live Now",AJ Auxerre vs. OL
+https://gg.poocloud.in/ligue1_aux/tracks-v1a1/mono.ts.m3u8
