@@ -1,6 +1,4 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/e4bf8e4d971d6e82614627621458e6e4-thumbnail.jpg" group-title="PPVLand - Live Now",Tampa Bay Buccaneers vs. Los Angeles Rams
-https://gg.poocloud.in/losangelesrams/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/8165fb5e2d33a599beb55489fcbcb4a3-thumbnail.jpg" group-title="PPVLand - Live Now",India vs. South Africa
 https://gg.poocloud.in/cricket/index.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/d0254389167401a507840310f91f872f-thumbnail.jpg" group-title="PPVLand - Live Now",Calgary Flames vs. Vancouver Canucks
