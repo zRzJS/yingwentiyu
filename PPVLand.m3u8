@@ -3,3 +3,7 @@
 https://gg.poocloud.in/nba_indianapacers/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/a312b6f4484d59af8b9ebfd27ff2b63e-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Cleveland Cavaliers vs. Toronto Raptors
 https://gg.poocloud.in/nba_torontoraptors/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/03493d567f3299883b227cbdcec86058-thumbnail.jpg" group-title="PPVLand - Basketball Hub",New York Knicks vs. Brooklyn Nets
+https://gg.poocloud.in/nba_brooklynnets/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/c964e7735c120047694ed88dcbd05a85-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Dallas Mavericks vs. Miami Heat
+https://gg.poocloud.in/nba_miamiheat/index.m3u8
