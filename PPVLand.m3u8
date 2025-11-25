@@ -1,7 +1,3 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/afaf5d73e5343bb0aa80a65aa5180c17-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Denver Pioneers vs. Arizona Wildcats
-https://gg.poocloud.in/CBSSN/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/80acf6ac81fc58056bb8ee8c0ed6e5a2-thumbnail.jpg" group-title="PPVLand - Basketball Hub",San Diego State Aztecs vs. Michigan Wolverines
-https://gg.poocloud.in/truTV/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/2ea94947186df7758180e20c0c56273f-thumbnail.jpg" group-title="PPVLand - Live Now",India vs. South Africa
-https://gg.poocloud.in/cricket/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/cricket/index.m3u8
