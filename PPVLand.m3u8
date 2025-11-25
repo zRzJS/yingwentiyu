@@ -1,7 +1,3 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/6bbde8a4c3c84f69603b510669be0df0-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Atlanta Hawks vs. Washington Wizards (East Group A)
 https://gg.poocloud.in/nba_washingtonwizards/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/2d907b844d73b3abcb7645bec388ed88-thumbnail.jpg" group-title="PPVLand - Live Now",CBS Sports Golazo Show
-https://gg.poocloud.in/ucl_golazo/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/4f4dfc24d6fc75ba4389b7ca737157c4-thumbnail.jpg" group-title="PPVLand - Live Now",TNT Sports Goals Show
-https://gg.poocloud.in/ucl_goalsxtra/index.m3u8
