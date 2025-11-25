@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/10cc92409620dc83d33281fd4488cf80-thumbnail.jpg" group-title="PPVLand - Live Now",Ajax vs. Benfica
-https://gg.poocloud.in/ucl_ajx/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/ucl_ajx/index.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/61394225fcb8cc719f577c5d7236bc8a-thumbnail.jpg" group-title="PPVLand - Live Now",Galatasaray vs. Union SG
-https://gg.poocloud.in/ucl_gal/index.m3u8
+https://gg.poocloud.in/ucl_gal/tracks-v1a1/mono.ts.m3u8
