@@ -14,14 +14,10 @@ https://gg.poocloud.in/SECN/index.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/d44f906cdbc9c0aa49ac30ed1fcb0f4f-thumbnail.jpg" group-title="PPVLand - Basketball Hub",St. John's Red Storm vs. Auburn Tigers
 https://gg.poocloud.in/truTV/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/7b7a1abb89d176044eb53752cc5d367e-thumbnail.jpg" group-title="PPVLand - Basketball Hub",NJIT Highlanders vs. Louisville Cardinals
-https://gg.poocloud.in/ACCN/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/ACCN/index.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/cb5e86a808cfce7d5514527be1b5c864-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Gonzaga Bulldogs vs. Michigan Wolverines
 https://gg.poocloud.in/TNT/index.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/fb4ec1ab25c4f95db6f03d71aae65389-thumbnail.jpg" group-title="PPVLand - Basketball Hub",NC State Wolfpack vs. Texas Longhorns
-https://gg.poocloud.in/ESPN2/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/ESPN2/index.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/e3e75a4747e13206744f09f9ef3d4f80-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Maryland Terrapins vs. Alabama Crimson Tide
 https://gg.poocloud.in/TNT/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/a7554f725552531f5d7a12ef9e61f931-thumbnail.jpg" group-title="PPVLand - Live Now",Copenhagen vs. Kairat Almaty
-https://gg.poocloud.in/ucl_cph/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/8e4184bdf151f1974450434decfbdf33-thumbnail.jpg" group-title="PPVLand - Live Now",Pafos vs. Monaco
-https://gg.poocloud.in/ucl_paf/tracks-v1a1/mono.ts.m3u8
