@@ -1,9 +1,7 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/199c241881464d74e63853bbe64df530-thumbnail.jpg" group-title="PPVLand - Basketball Hub",UCLA Bruins vs. California Golden Bears
-https://gg.poocloud.in/ESPN/index.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/70e349aa666df263afddf20fa80c753b-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Maryland Terrapins vs. Gonzaga Bulldogs
+https://gg.poocloud.in/truTV/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/8621ae396a65c247e83f7068697faf4e-thumbnail.jpg" group-title="PPVLand - Basketball Hub",LA Clippers vs. Los Angeles Lakers (West Group B)
 https://gg.poocloud.in/nba_losangeleslakers/index.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/b5b738d1178ce032b1e3e78324dd44ea-thumbnail.jpg" group-title="PPVLand - Basketball Hub",UNLV Rebels vs. Alabama Crimson Tide
-https://gg.poocloud.in/truTV/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/1a4cb3620417fe4c35c9c8ef7a15a78d-thumbnail.jpg" group-title="PPVLand - Live Now",India vs. South Africa
-https://gg.poocloud.in/cricket/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/truTV/tracks-v1a1/mono.ts.m3u8
