@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/e7c06573b8ae26c27c135536fb2d6d9f-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Vanderbilt Commodores vs. Western Kentucky Hilltoppers
-https://gg.poocloud.in/ESPN/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/ESPN/index.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/56fed9df3b8cb004e0c65bcfe50da1a5-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Syracuse Orange vs. Iowa State Cyclones
 https://gg.poocloud.in/TNT/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/d91a7a2743c9810a42d735572c677edd-thumbnail.jpg" group-title="PPVLand - Basketball Hub",New Orleans Privateers vs. Texas Tech Red Raiders
@@ -22,6 +22,6 @@ https://gg.poocloud.in/ESPN2/index.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/e3e75a4747e13206744f09f9ef3d4f80-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Maryland Terrapins vs. Alabama Crimson Tide
 https://gg.poocloud.in/TNT/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/a7554f725552531f5d7a12ef9e61f931-thumbnail.jpg" group-title="PPVLand - Live Now",Copenhagen vs. Kairat Almaty
-https://gg.poocloud.in/ucl_cph/index.m3u8
+https://gg.poocloud.in/ucl_cph/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/8e4184bdf151f1974450434decfbdf33-thumbnail.jpg" group-title="PPVLand - Live Now",Pafos vs. Monaco
-https://gg.poocloud.in/ucl_paf/index.m3u8
+https://gg.poocloud.in/ucl_paf/tracks-v1a1/mono.ts.m3u8
