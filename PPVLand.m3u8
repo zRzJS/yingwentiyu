@@ -1,11 +1,9 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/3e3ae7d9bd3afef2f2990917694c4db4-thumbnail.jpg" group-title="PPVLand - Basketball Hub",TCU Horned Frogs vs. Florida Gators
-https://gg.poocloud.in/FS1/index.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/f08b0742593dbf7d9593a3ff9e48a1b9-thumbnail.jpg" group-title="PPVLand - Basketball Hub",North Carolina Tar Heels vs. Michigan State Spartans
 https://gg.poocloud.in/FOX/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/6ada2ba9507bd9a2be4860259f672e58-thumbnail.jpg" group-title="PPVLand - Basketball Hub",BYU Cougars vs. Miami Hurricanes
 https://gg.poocloud.in/ESPN/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/2fa0ddd0d735d6d2071e9a76d1145126-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Duke Blue Devils vs. Arkansas Razorbacks
-https://gg.poocloud.in/CBS/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/CBS/index.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/9ccdd52f6ef55678ec64bf62e415313a-thumbnail.jpg" group-title="PPVLand - Live Now",Kansas City Chiefs vs. Dallas Cowboys
-https://gg.poocloud.in/CBS/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/CBS/index.m3u8
