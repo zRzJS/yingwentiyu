@@ -1,1 +1,7 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/3cba625b8f8ebb9ef3ab0423347bf253-thumbnail.jpg" group-title="PPVLand - Basketball Hub",San Francisco Dons vs. Colorado Buffaloes
+https://gg.poocloud.in/CBSSN/index.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/4794da9efc3e15ebfc645e3c0b12665a-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Saint Mary's Gaels vs. Virginia Tech Hokies
+https://gg.poocloud.in/ESPN/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/5c68cf5b5864fb53bd354c3c30aab93f-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Santa Clara Broncos vs. Saint Louis Billikens
+https://gg.poocloud.in/CBSSN/index.m3u8
