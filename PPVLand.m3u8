@@ -1,24 +1,18 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/a7f0d6b3a875bf84b2a010860cf9d818-thumbnail.jpg" group-title="PPVLand - Basketball Hub",New York Knicks vs. Charlotte Hornets (East Group C)
-https://gg.poocloud.in/nba_charlottehornets/index.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/74aa5aa0eac456d88f079b28cab5a514-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Kansas Jayhawks vs. Tennessee Volunteers
-https://gg.poocloud.in/TNT/index.m3u8
+https://gg.poocloud.in/TNT/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/e471046e5e923689edc6e05a631aa41e-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Tennessee Tech Golden Eagles vs. Kentucky Wildcats
 https://gg.poocloud.in/SECN/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/fecd6a8293c1820150ca3ffc86205247-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Milwaukee Bucks vs. Miami Heat (East Group C)
-https://gg.poocloud.in/nba_miamiheat/index.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/6e8f6b4a5e59bf3221455a49d5e6f559-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Indiana Pacers vs. Toronto Raptors (East Group A)
-https://gg.poocloud.in/nba_torontoraptors/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/57b946ba98e16c66d801a653da24a6b5-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Minnesota Timberwolves vs. Oklahoma City Thunder (West Group A)
-https://gg.poocloud.in/nba_oklahomacitythunder/index.m3u8
+https://gg.poocloud.in/nba_oklahomacitythunder/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/d2d0f04c9915520463b5eee762edbdd6-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Memphis Grizzlies vs. New Orleans Pelicans (West Group B)
 https://gg.poocloud.in/nba_neworleanspelicans/index.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/d44f906cdbc9c0aa49ac30ed1fcb0f4f-thumbnail.jpg" group-title="PPVLand - Basketball Hub",St. John's Red Storm vs. Auburn Tigers
 https://gg.poocloud.in/truTV/index.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/7b7a1abb89d176044eb53752cc5d367e-thumbnail.jpg" group-title="PPVLand - Basketball Hub",NJIT Highlanders vs. Louisville Cardinals
-https://gg.poocloud.in/ACCN/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/ACCN/index.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/cb5e86a808cfce7d5514527be1b5c864-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Gonzaga Bulldogs vs. Michigan Wolverines
-https://gg.poocloud.in/TNT/index.m3u8
+https://gg.poocloud.in/TNT/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/fb4ec1ab25c4f95db6f03d71aae65389-thumbnail.jpg" group-title="PPVLand - Basketball Hub",NC State Wolfpack vs. Texas Longhorns
 https://gg.poocloud.in/ESPN2/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/bcd6acd55bd37f3296d76a68bff2b7f0-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Houston Rockets vs. Golden State Warriors (West Group C)
@@ -26,30 +20,20 @@ https://gg.poocloud.in/nba_goldenstatewarriors/index.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/8f2905cc8bb64cb00ef80c9ba9f95522-thumbnail.jpg" group-title="PPVLand - Basketball Hub",San Antonio Spurs vs. Portland Trail Blazers (West Group C)
 https://gg.poocloud.in/nba_portlandtrailblazers/index.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/aa70c35c2987d8f057eefd7bb483fbbe-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Phoenix Suns vs. Sacramento Kings (West Group A)
-https://gg.poocloud.in/nba_sacramentokings/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/nba_sacramentokings/index.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/e3e75a4747e13206744f09f9ef3d4f80-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Maryland Terrapins vs. Alabama Crimson Tide
-https://gg.poocloud.in/TNT/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/c2114aead5284f9e8786e7df3f25f919-thumbnail.jpg" group-title="PPVLand - Live Now",Nashville Predators vs. Detroit Red Wings
-https://gg.poocloud.in/detroitredwings/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/a1e3a6e3ef1af616a3e6e390460408e7-thumbnail.jpg" group-title="PPVLand - Live Now",Calgary Flames vs. Tampa Bay Lightning
-https://gg.poocloud.in/tampabaylightning/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/2cf071502225b8992d0747e8c9fff82f-thumbnail.jpg" group-title="PPVLand - Live Now",Philadelphia Flyers vs. Florida Panthers
-https://gg.poocloud.in/floridapanthers/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/d659887d0faf6c4cc6f0b197fd571bc1-thumbnail.jpg" group-title="PPVLand - Live Now",St. Louis Blues vs. New Jersey Devils
-https://gg.poocloud.in/newjerseydevils/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/b8c779de8c135743bd8e3c4e3e50e4ac-thumbnail.jpg" group-title="PPVLand - Live Now",Boston Bruins vs. New York Islanders
-https://gg.poocloud.in/newyorkislanders/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/aba0109d81981fb1998a390fdaabc83a-thumbnail.jpg" group-title="PPVLand - Live Now",Buffalo Sabres vs. Pittsburgh Penguins
-https://gg.poocloud.in/pittsburghpenguins/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/157673abb61c158f46585788284a6056-thumbnail.jpg" group-title="PPVLand - Live Now",Winnipeg Jets vs. Washington Capitals
-https://gg.poocloud.in/pittsburghpenguins/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/9831efc3e280b05c80c9512f2a401325-thumbnail.jpg" group-title="PPVLand - Live Now",New York Rangers vs. Carolina Hurricanes
-https://gg.poocloud.in/carolinahurricanes/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/f4a7314b4b776a1bffad0661f28524d2-thumbnail.jpg" group-title="PPVLand - Live Now",Toronto Maple Leafs vs. Columbus Blue Jackets
-https://gg.poocloud.in/carolinahurricanes/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/TNT/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/21745d96647b324ac0957067c983f483-thumbnail.jpg" group-title="PPVLand - Live Now",Minnesota Wild vs. Chicago Blackhawks
-https://gg.poocloud.in/chicagoblackhawks/index.m3u8
+https://gg.poocloud.in/chicagoblackhawks/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/25103ae8ae51c986702e6d9212c29c7d-thumbnail.jpg" group-title="PPVLand - Live Now",San Jose Sharks vs. Colorado Avalanche
-https://gg.poocloud.in/coloradoavalanche/index.m3u8
+https://gg.poocloud.in/coloradoavalanche/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/ca0d6df01b878e6318b9c4fd3228fd0b-thumbnail.jpg" group-title="PPVLand - Live Now",Montreal Canadiens vs. Utah Mammoth
+https://gg.poocloud.in/utahmammoth/index.m3u8
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/261ed4f755d80031518542947c9fad12-thumbnail.jpg" group-title="PPVLand - Live Now",Ottawa Senators vs. Vegas Golden Knights
+https://gg.poocloud.in/vegasgoldenknights/index.m3u8
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/19e10eb8ba306ef241bf0b8d499e03a7-thumbnail.jpg" group-title="PPVLand - Live Now",Vancouver Canucks vs. Anaheim Ducks
+https://gg.poocloud.in/anaheimducks/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/5a4ab2bb1d9071ef167537238213d780-thumbnail.jpg" group-title="PPVLand - Live Now",Dallas Stars vs. Seattle Kraken
+https://gg.poocloud.in/seattlekraken/index.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/939d74f529afb1d0c8674c3a27434196-thumbnail.jpg" group-title="PPVLand - Live Now",AEW: Wednesday Night Dynamite
-https://gg.poocloud.in/wrestling/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/wrestling/index.m3u8
