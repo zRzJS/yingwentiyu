@@ -1,1 +1,7 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/2f72b60449932e89e830fee1aa9853ff-thumbnail.jpg" group-title="PPVLand - Live Now",Ole Miss Rebels vs. Mississippi State Bulldogs
+https://gg.poocloud.in/ABC/index.m3u8
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/23e9a0902c8c67efd032b23ea14ffdda-thumbnail.jpg" group-title="PPVLand - Live Now",Utah Utes vs. Kansas Jayhawks
+https://gg.poocloud.in/ESPN/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/00e945dd9685921df8431000461abd5a-thumbnail.jpg" group-title="PPVLand - Live Now",Tampa Bay Lightning vs. Detroit Red Wings
+https://gg.poocloud.in/detroitredwings/index.m3u8
