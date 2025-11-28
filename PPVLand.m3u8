@@ -2,19 +2,13 @@
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/a9664cdb68ae3b3db2d6a02fdb0d7c73-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Providence Friars vs. Florida Gators
 https://gg.poocloud.in/FOX/index.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/53bb2bbd257a26897bad5c1cca4b8395-thumbnail.jpg" group-title="PPVLand - Basketball Hub",BYU Cougars vs. Dayton Flyers
-https://gg.poocloud.in/ESPN/index.m3u8
+https://gg.poocloud.in/ESPN/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/33dcc6916b077f56e57f639d87b5aab5-thumbnail.jpg" group-title="PPVLand - Live Now",Chicago Bears vs. Philadelphia Eagles
-https://gg.poocloud.in/philadelphiaeagles/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/philadelphiaeagles/index.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/7fdfa81d8dfd79421f2951cadc85f000-thumbnail.jpg" group-title="PPVLand - Live Now",Georgia Bulldogs vs. Georgia Tech Yellow Jackets
-https://gg.poocloud.in/cfb-1/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/023a790d6578107f9a340751320e69d4-thumbnail.jpg" group-title="PPVLand - Live Now",Gladbach vs. RB Leipzig
-https://gg.poocloud.in/bundesliga_bmg/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/55401ac2aad0825bddd57a9aeb1df35a-thumbnail.jpg" group-title="PPVLand - Live Now",Como vs. Sassuolo
-https://gg.poocloud.in/seriea_com/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/8b26b67f5b87dd59c65be1d8fc982c45-thumbnail.jpg" group-title="PPVLand - Live Now",Getafe CF vs. Elche CF
-https://gg.poocloud.in/ll_get/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/cfb-1/index.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/4c30b7f978a3c460cb4f777918ff0db5-thumbnail.jpg" group-title="PPVLand - Live Now",Colorado Avalanche vs. Minnesota Wild
-https://gg.poocloud.in/minnesotawild/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/minnesotawild/index.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/968928eaa718c8278b1cc49ea8242410-thumbnail.jpg" group-title="PPVLand - Live Now",New Jersey Devils vs. Buffalo Sabres
 https://gg.poocloud.in/buffalosabres/index.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/445c8947377002486219094f77f36291-thumbnail.jpg" group-title="PPVLand - Live Now",Calgary Flames vs. Florida Panthers
@@ -24,8 +18,12 @@ https://gg.poocloud.in/newyorkislanders/index.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/d879aac1420a07d9474ba4b128e889e5-thumbnail.jpg" group-title="PPVLand - Live Now",Ottawa Senators vs. St. Louis Blues
 https://gg.poocloud.in/stlouisblues/index.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/8a346917620389d8d3a800a4cbadd3c3-thumbnail.jpg" group-title="PPVLand - Live Now",Montreal Canadiens vs. Vegas Golden Knights
-https://gg.poocloud.in/vegasgoldenknights/index.m3u8
+https://gg.poocloud.in/vegasgoldenknights/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/d967c868c3796e940b1a3eba5ec60e0d-thumbnail.jpg" group-title="PPVLand - Live Now",Los Angeles Kings vs. Anaheim Ducks
 https://gg.poocloud.in/anaheimducks/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/9c1421377bd5129a53a74204beff89c1-thumbnail.jpg" group-title="PPVLand - Live Now",Vancouver Canucks vs. San Jose Sharks
-https://gg.poocloud.in/sanjosesharks/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/sanjosesharks/index.m3u8
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/fd4fb01715acf07af621396161eb4eb3-thumbnail.jpg" group-title="PPVLand - Live Now",Toronto Maple Leafs vs. Washington Capitals
+https://gg.poocloud.in/washingtoncapitals/index.m3u8
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/519658ef5aeb63ee04db910f273e90af-thumbnail.jpg" group-title="PPVLand - Live Now",Winnipeg Jets vs. Carolina Hurricanes
+https://gg.poocloud.in/carolinahurricanes/index.m3u8
