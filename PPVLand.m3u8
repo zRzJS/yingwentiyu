@@ -1,9 +1,19 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/78753432b4a43bdb78d99c6a00e322c9-thumbnail.jpg" group-title="PPVLand - Live Now",RCD Mallorca vs. CA Osasuna
-https://gg.poocloud.in/ll_mll/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/ll_mll/index.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/6519e5dc8efdff99e03b0e10f6b1a9ef-thumbnail.jpg" group-title="PPVLand - Live Now",Genoa vs. Hellas Verona
-https://gg.poocloud.in/seriea_gen/index.m3u8
+https://gg.poocloud.in/seriea_gen/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/1d485895fae1410dc708a9e85102af16-thumbnail.jpg" group-title="PPVLand - Live Now",Parma vs. Udinese
-https://gg.poocloud.in/seriea_par/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/seriea_par/index.m3u8
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/dd9a64549d7fa6bd306566b0093c32ba-thumbnail.jpg" group-title="PPVLand - Live Now",Goal Arena
+https://gg.poocloud.in/bundesliga_goalarena/index.m3u8
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/7b5c99b786bcec44b30949d5cae0ba5e-thumbnail.jpg" group-title="PPVLand - Live Now",Union Berlin vs. Heidenheim
+https://gg.poocloud.in/bundesliga_fcu/index.m3u8
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/3bf1111d678c97e060e2fbb460a0fd97-thumbnail.jpg" group-title="PPVLand - Live Now",Bayern vs. St. Pauli
+https://gg.poocloud.in/bundesliga_mun/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/cce26bd25d0c7b5f6da8af14f48668c8-thumbnail.jpg" group-title="PPVLand - Live Now",Hoffenheim vs. Augsburg
+https://gg.poocloud.in/bundesliga_tsg/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/8ae402b888869c02484ffe824d2f75bb-thumbnail.jpg" group-title="PPVLand - Live Now",Bremen vs. Cologne
+https://gg.poocloud.in/bundesliga_svw/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/c0de455d8f67fdf4ad189fff194075db-thumbnail.jpg" group-title="PPVLand - Live Now",Qatar Grand Prix - Sprint
 https://gg.poocloud.in/f1/tracks-v1a1/mono.ts.m3u8
