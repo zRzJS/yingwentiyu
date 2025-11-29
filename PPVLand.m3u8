@@ -1,12 +1,12 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/8c83ea5c2c4765d68dd699010a5f5fef-thumbnail.jpg" group-title="PPVLand - Live Now",Ohio State Buckeyes vs. Michigan Wolverines
-https://gg.poocloud.in/FOX/index.m3u8
+https://gg.poocloud.in/FOX/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/59d8f2219d43ae76966f2c400bee49c0-thumbnail.jpg" group-title="PPVLand - Live Now",Texas Tech Red Raiders vs. West Virginia Mountaineers
 https://gg.poocloud.in/ESPN/index.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/1fca0136bfdd632b85760027ec4776ec-thumbnail.jpg" group-title="PPVLand - Live Now",Miami Hurricanes vs. Pittsburgh Panthers
-https://gg.poocloud.in/ABC/index.m3u8
+https://gg.poocloud.in/ABC/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/f5d795dfc56f708ddc12ac8dd61e61c7-thumbnail.jpg" group-title="PPVLand - Live Now",UCF Knights vs. BYU Cougars
-https://gg.poocloud.in/ESPN2/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/ESPN2/index.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/45a23ef07ffe9a891a647de4dfecc57f-thumbnail.jpg" group-title="PPVLand - Live Now",Ben Whittaker vs. Benjamin Gavazi
 https://gg.poocloud.in/daznboxing/index.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/06b90c7be028bea3b17d9428cdb4eaf1-thumbnail.jpg" group-title="PPVLand - Live Now",Everton vs. Newcastle United
@@ -16,8 +16,10 @@ https://gg.poocloud.in/bundesliga_b04/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/5a54a4b329385b8b72e158c90cffbcde-thumbnail.jpg" group-title="PPVLand - Live Now",Levante UD vs. Athletic Club
 https://gg.poocloud.in/ll_lev/index.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/5dea2507af3cb3dfac2f76281c516c8a-thumbnail.jpg" group-title="PPVLand - Live Now",Paris FC vs. AJ Auxerre
-https://gg.poocloud.in/ligue1_pfc/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/ligue1_pfc/index.m3u8
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/e11d6414013fb2f7deffff9a6d5628fe-thumbnail.jpg" group-title="PPVLand - Live Now",Milan vs. Lazio
+https://gg.poocloud.in/seriea_mil/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/56e31d29626a245f88719cdf03ceb1b9-thumbnail.jpg" group-title="PPVLand - Live Now",Tampa Bay Lightning vs. New York Rangers
 https://gg.poocloud.in/newyorkrangers/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/b9c007ff22ab6f8625188a61dcadf712-thumbnail.jpg" group-title="PPVLand - Live Now",Qatar Grand Prix - Qualifying
-https://gg.poocloud.in/f1/index.m3u8
+https://gg.poocloud.in/f1/tracks-v1a1/mono.ts.m3u8
