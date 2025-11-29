@@ -1,3 +1,9 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/78753432b4a43bdb78d99c6a00e322c9-thumbnail.jpg" group-title="PPVLand - Live Now",RCD Mallorca vs. CA Osasuna
 https://gg.poocloud.in/ll_mll/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/6519e5dc8efdff99e03b0e10f6b1a9ef-thumbnail.jpg" group-title="PPVLand - Live Now",Genoa vs. Hellas Verona
+https://gg.poocloud.in/seriea_gen/index.m3u8
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/1d485895fae1410dc708a9e85102af16-thumbnail.jpg" group-title="PPVLand - Live Now",Parma vs. Udinese
+https://gg.poocloud.in/seriea_par/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/c0de455d8f67fdf4ad189fff194075db-thumbnail.jpg" group-title="PPVLand - Live Now",Qatar Grand Prix - Sprint
+https://gg.poocloud.in/f1/tracks-v1a1/mono.ts.m3u8
