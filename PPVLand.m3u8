@@ -1,3 +1,3 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/97a13a87877cfce033e848fc823e758f-thumbnail.jpg" group-title="PPVLand - Live Now",Lecce vs. Torino
-https://gg.poocloud.in/seriea_lec/index.m3u8
+https://gg.poocloud.in/seriea_lec/tracks-v1a1/mono.ts.m3u8
