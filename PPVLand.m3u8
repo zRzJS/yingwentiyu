@@ -4,16 +4,22 @@ https://gg.poocloud.in/nba_philadelphia76ers/index.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/f9f3c5ad3564f9f102e05fd50ced88e5-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Iowa Hawkeyes vs. Michigan State Spartans
 https://gg.poocloud.in/cbb-1/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/4ae0b3e5de1774dd17774c825fa7afb8-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Tennessee Volunteers vs. Syracuse Orange
-https://gg.poocloud.in/ESPN2/index.m3u8
+https://gg.poocloud.in/ESPN2/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/1ec43e376fa6221e57db8db128ff98a4-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Portland Trail Blazers vs. Toronto Raptors
 https://gg.poocloud.in/nba_torontoraptors/index.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/522f4e87cf2d992f63ffe56f858b7a34-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Florida Gators vs. Duke Blue Devils
 https://gg.poocloud.in/ESPN/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/7ba7f5595565ec51306058ebd6f32024-thumbnail.jpg" group-title="PPVLand - Basketball Hub",New York Knicks vs. Boston Celtics
+https://gg.poocloud.in/nba_bostonceltics/index.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/e646c4539db5abf49783f5d9bd1e743c-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Minnesota Timberwolves vs. New Orleans Pelicans
+https://gg.poocloud.in/nba_neworleanspelicans/index.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/b5311d48967e05c6e71640311a6d9ed0-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Memphis Grizzlies vs. San Antonio Spurs
+https://gg.poocloud.in/nba_sanantoniospurs/index.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/ecf44bdffd8d6cc50a7915848a05800d-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Purdue Boilermakers vs. Rutgers Scarlet Knights
-https://gg.poocloud.in/FS1/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/FS1/index.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/029a93336d35b668dc2eeadfaee4f66d-thumbnail.jpg" group-title="PPVLand - Basketball Hub",UConn Huskies vs. Kansas Jayhawks
-https://gg.poocloud.in/ESPN2/index.m3u8
+https://gg.poocloud.in/ESPN2/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/e2da61675c668061b9495c2b6399618a-thumbnail.jpg" group-title="PPVLand - Basketball Hub",North Carolina Tar Heels vs. Kentucky Wildcats
 https://gg.poocloud.in/ESPN/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/5dc6c7935906de19281b49cc6c212a7a-thumbnail.jpg" group-title="PPVLand - Basketball Hub",USC Trojans vs. Oregon Ducks
-https://gg.poocloud.in/FS1/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/FS1/index.m3u8
