@@ -1,21 +1,21 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/f9f3c5ad3564f9f102e05fd50ced88e5-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Iowa Hawkeyes vs. Michigan State Spartans
+https://gg.poocloud.in/cbb-1/index.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/4ae0b3e5de1774dd17774c825fa7afb8-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Tennessee Volunteers vs. Syracuse Orange
 https://gg.poocloud.in/ESPN2/index.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/522f4e87cf2d992f63ffe56f858b7a34-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Florida Gators vs. Duke Blue Devils
-https://gg.poocloud.in/ESPN/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/ESPN/index.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/ecf44bdffd8d6cc50a7915848a05800d-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Purdue Boilermakers vs. Rutgers Scarlet Knights
 https://gg.poocloud.in/FS1/index.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/029a93336d35b668dc2eeadfaee4f66d-thumbnail.jpg" group-title="PPVLand - Basketball Hub",UConn Huskies vs. Kansas Jayhawks
 https://gg.poocloud.in/ESPN2/index.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/e2da61675c668061b9495c2b6399618a-thumbnail.jpg" group-title="PPVLand - Basketball Hub",North Carolina Tar Heels vs. Kentucky Wildcats
-https://gg.poocloud.in/ESPN/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/ESPN/index.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/5dc6c7935906de19281b49cc6c212a7a-thumbnail.jpg" group-title="PPVLand - Basketball Hub",USC Trojans vs. Oregon Ducks
 https://gg.poocloud.in/FS1/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/8fb939cddb931ba2a133faba9b5fa003-thumbnail.jpg" group-title="PPVLand - Live Now",Bournemouth vs. Everton
-https://gg.poocloud.in/epl_bou/index.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/adcd8f54219369d06c35e745f9459666-thumbnail.jpg" group-title="PPVLand - Live Now",Fulham vs. Manchester City
-https://gg.poocloud.in/epl_ful/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/epl_ful/index.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/48de25ee3c859c74c933a6eeff440a28-thumbnail.jpg" group-title="PPVLand - Live Now",FC Barcelona vs. Atlético de Madrid
-https://gg.poocloud.in/ll_bar/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/ll_bar/index.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/f0dd8c9b3fc130d820becd99b1b27700-thumbnail.jpg" group-title="PPVLand - Live Now",Newcastle United vs. Tottenham Hotspur
 https://gg.poocloud.in/epl_new/index.m3u8
