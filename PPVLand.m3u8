@@ -6,10 +6,6 @@ https://gg.poocloud.in/nba_utahjazz/index.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/d4eab29ee32129c51ccd7dc025c98183-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Phoenix Suns vs. Los Angeles Lakers
 https://gg.poocloud.in/nba_losangeleslakers/index.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/f617e815d7ce9cb63a72d0da5c1f6788-thumbnail.jpg" group-title="PPVLand - Live Now",New York Giants vs. New England Patriots
-https://gg.poocloud.in/newenglandpatriots/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/809968bee2ff8e303f55da27e8b95e3d-thumbnail.jpg" group-title="PPVLand - Live Now",Winnipeg Jets vs. Buffalo Sabres
-https://gg.poocloud.in/buffalosabres/index.m3u8
+https://gg.poocloud.in/newenglandpatriots/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/08bc6329c8a7a39debe15f8f335e98f0-thumbnail.jpg" group-title="PPVLand - Live Now",Utah Mammoth vs. San Jose Sharks
 https://gg.poocloud.in/sanjosesharks/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/56336f9d22c51c416e1a56afbd18f314-thumbnail.jpg" group-title="PPVLand - Live Now",WWE: Monday Night RAW
-https://gg.poocloud.in/wrestling/index.m3u8
