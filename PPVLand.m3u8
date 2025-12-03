@@ -1,3 +1,13 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/1ea6c8a23106563349ec8a9a35723a27-thumbnail.jpg" group-title="PPVLand - Live Now",Athletic Club vs. Real Madrid
 https://gg.poocloud.in/ll_ath/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/8053ee46d14de16c3993fea458359cd8-thumbnail.jpg" group-title="PPVLand - Live Now",Goal Rush
+https://gg.poocloud.in/epl_goalrush/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/c06cfc9915fae6152852e4a5290b4f9f-thumbnail.jpg" group-title="PPVLand - Live Now",Arsenal vs. Brentford
+https://gg.poocloud.in/epl_ars/index.m3u8
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/8c12b6c775f1943421e442cccb9154f4-thumbnail.jpg" group-title="PPVLand - Live Now",Brighton and Hove Albion vs. Aston Villa
+https://gg.poocloud.in/epl_bha/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/9f7782a7dbada325ba7fd2564c5c170e-thumbnail.jpg" group-title="PPVLand - Live Now",Burnley vs. Crystal Palace
+https://gg.poocloud.in/epl_bur/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/311e070e6d4b847a9d3127c86cd62ea4-thumbnail.jpg" group-title="PPVLand - Live Now",Wolverhampton Wanderers vs. Nottingham Forest
+https://gg.poocloud.in/epl_wol/index.m3u8
