@@ -1,13 +1,11 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/029a93336d35b668dc2eeadfaee4f66d-thumbnail.jpg" group-title="PPVLand - Basketball Hub",UConn Huskies vs. Kansas Jayhawks
-https://gg.poocloud.in/ESPN2/index.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/e2da61675c668061b9495c2b6399618a-thumbnail.jpg" group-title="PPVLand - Basketball Hub",North Carolina Tar Heels vs. Kentucky Wildcats
 https://gg.poocloud.in/ESPN/index.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/5dc6c7935906de19281b49cc6c212a7a-thumbnail.jpg" group-title="PPVLand - Basketball Hub",USC Trojans vs. Oregon Ducks
-https://gg.poocloud.in/FS1/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/FS1/index.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/857ee57acf86edc95f24cc0fc2ff30d2-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Oklahoma City Thunder vs. Golden State Warriors
 https://gg.poocloud.in/nba_goldenstatewarriors/index.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/d4db39bcae3353ddec796606b90558fb-thumbnail.jpg" group-title="PPVLand - Live Now",Chicago Blackhawks vs. Vegas Golden Knights
-https://gg.poocloud.in/vegasgoldenknights/index.m3u8
+https://gg.poocloud.in/vegasgoldenknights/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/648ec13aeee73802278a00a770a6dc9e-thumbnail.jpg" group-title="PPVLand - Live Now",Washington Capitals vs. Los Angeles Kings
 https://gg.poocloud.in/losangeleskings/index.m3u8
