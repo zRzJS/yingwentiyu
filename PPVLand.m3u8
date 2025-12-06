@@ -1,3 +1,3 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/56ac56a06b1b37439c73d8ce299b951c-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Los Angeles Lakers vs. Boston Celtics
-https://gg.poocloud.in/nba_bostonceltics/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/nba_bostonceltics/index.m3u8
