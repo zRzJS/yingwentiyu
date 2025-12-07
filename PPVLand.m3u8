@@ -1,3 +1,3 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/52da4d193a11ada97557ded7a453ed66-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Boston Celtics vs. Toronto Raptors
-https://gg.poocloud.in/torontoraptors/index.m3u8
+https://gg.poocloud.in/torontoraptors/tracks-v1a1/mono.ts.m3u8
