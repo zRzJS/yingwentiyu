@@ -1,1 +1,3 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/e1c70959d92ec320c91b3e600d669633-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Sacramento Kings vs. Indiana Pacers
+https://gg.poocloud.in/indianapacers/index.m3u8
