@@ -1,3 +1,3 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/29449b5ff6444be1dd2ec551552d6f8b-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Chicago Bulls vs. Charlotte Hornets
-https://gg.poocloud.in/charlottehornets/index.m3u8
+https://gg.poocloud.in/charlottehornets/tracks-v1a1/mono.ts.m3u8
