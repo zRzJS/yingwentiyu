@@ -1,3 +1,3 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/ab5d9773762910019251fc0873dcf405-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Utah Jazz vs. Memphis Grizzlies
-https://gg.poocloud.in/memphisgrizzlies/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/f8b40190837ebce2885556bc3689b19b-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Brooklyn Nets vs. Dallas Mavericks
+https://gg.poocloud.in/dallasmavericks/index.m3u8
