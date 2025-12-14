@@ -1,3 +1,3 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/ff1e9f0f2c44197208d330368098949c-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Washington Wizards vs. Indiana Pacers
-https://gg.poocloud.in/indianapacers/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/indianapacers/index.m3u8
