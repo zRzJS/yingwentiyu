@@ -1,3 +1,7 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/819f5d3850abc87584298f0983b27bfe-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Miami Heat vs. Boston Celtics
 https://gg.poocloud.in/bostonceltics/index.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/0d8edf0c73542a0499b4654c971bb359-thumbnail.jpg" group-title="PPVLand - Basketball Hub",San Antonio Spurs vs. Atlanta Hawks
+https://gg.poocloud.in/atlantahawks/index.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/12aa936c9a83d466889dc47eb49f3ceb-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Chicago Bulls vs. Cleveland Cavaliers
+https://gg.poocloud.in/clevelandcavaliers/index.m3u8
