@@ -2,6 +2,6 @@
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/a4d3614fadd2ed84b7d57f2e2f1d0245-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Chicago Bulls vs. Atlanta Hawks
 https://gg.poocloud.in/atlantahawks/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/05a433b7161c6526ee5a75bfac49ecd2-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Toronto Raptors vs. Brooklyn Nets
-https://gg.poocloud.in/brooklynnets/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/brooklynnets/index.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/759008e3cbafe80a30982d5248061889-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Miami Heat vs. New York Knicks
-https://gg.poocloud.in/newyorkknicks/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/newyorkknicks/index.m3u8
