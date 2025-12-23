@@ -1,11 +1,9 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/eeaed7d7598f8974049e2438e67c46e0-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Dallas Mavericks vs. New Orleans Pelicans
-https://gg.poocloud.in/neworleanspelicans/index.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/27c0c38dc0c8fd606f56d0e5c547a638-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Utah Jazz vs. Denver Nuggets
-https://gg.poocloud.in/denvernuggets/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/denvernuggets/index.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/f13a5267801bec20029bacef81542b21-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Memphis Grizzlies vs. Oklahoma City Thunder
-https://gg.poocloud.in/oklahomacitythunder/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/oklahomacitythunder/index.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/624b57cd55a3f6ac827b1490445bc4aa-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Orlando Magic vs. Golden State Warriors
 https://gg.poocloud.in/goldenstatewarriors/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/0764ea0432db43904591d8b4a09339ca-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Detroit Pistons vs. Portland Trail Blazers
-https://gg.poocloud.in/portlandtrailblazers/index.m3u8
+https://gg.poocloud.in/portlandtrailblazers/tracks-v1a1/mono.ts.m3u8
