@@ -1,3 +1,3 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/70e160085451e4a30248126cf7172a72-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Minnesota Timberwolves vs. Denver Nuggets
-https://gg.poocloud.in/denvernuggets/index.m3u8
+https://gg.poocloud.in/denvernuggets/tracks-v1a1/mono.ts.m3u8
