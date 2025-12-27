@@ -1,3 +1,3 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/cb6f18f286b482cad2ae577c46f79b26-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Milwaukee Bucks vs. Chicago Bulls
-https://gg.poocloud.in/chicagobulls/index.m3u8
+https://gg.poocloud.in/chicagobulls/tracks-v1a1/mono.ts.m3u8
