@@ -1,1 +1,5 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/93220b806877b899320236079156017e-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Milwaukee Bucks vs. Charlotte Hornets
+https://gg.poocloud.in/charlottehornets/index.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/c61476a82fdab56c6174f8ef567937ad-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Phoenix Suns vs. Washington Wizards
+https://gg.poocloud.in/washingtonwizards/tracks-v1a1/mono.ts.m3u8
