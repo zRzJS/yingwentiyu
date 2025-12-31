@@ -4,4 +4,8 @@ https://gg.poocloud.in/chicagobulls/index.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/aca3ab993045d3dd9bd04ce67913c455-thumbnail.jpg" group-title="PPVLand - Basketball Hub",New York Knicks vs. San Antonio Spurs
 https://gg.poocloud.in/sanantoniospurs/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/d0c089a165262c79089622852d58cb08-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Denver Nuggets vs. Toronto Raptors
-https://gg.poocloud.in/torontoraptors/index.m3u8
+https://gg.poocloud.in/torontoraptors/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/4b4dbcf05edc0e5e9fcc46ac45b6a022-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Washington Wizards vs. Milwaukee Bucks
+https://gg.poocloud.in/milwaukeebucks/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/d32491b8c1f7fc0057ea950487673a54-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Portland Trail Blazers vs. Oklahoma City Thunder
+https://gg.poocloud.in/oklahomacitythunder/index.m3u8
