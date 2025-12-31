@@ -1,7 +1,5 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/f4ae2b877e18a7b6eada3d49c60a0101-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Boston Celtics vs. Utah Jazz
-https://gg.poocloud.in/utahjazz/index.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/58be4796a4cffeda7b76d8c8830092aa-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Detroit Pistons vs. Los Angeles Lakers
 https://gg.poocloud.in/losangeleslakers/index.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/22997a984d271beebf82f778aeb73829-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Sacramento Kings vs. LA Clippers
-https://gg.poocloud.in/laclippers/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/laclippers/index.m3u8
