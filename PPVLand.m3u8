@@ -1,3 +1,3 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/ee9e7630cdf2282f0ff0559cab95ba83-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Houston Rockets vs. Brooklyn Nets
-https://gg.poocloud.in/brooklynnets/index.m3u8
+https://gg.poocloud.in/brooklynnets/tracks-v1a1/mono.ts.m3u8
