@@ -1,9 +1,7 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/fc7fb759cfe8685779cdb892d34aeb52-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Denver Nuggets vs. Philadelphia 76ers
-https://gg.poocloud.in/philadelphia76ers/index.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/b4eda2c6276b26629f70a49411c4f3d6-thumbnail.jpg" group-title="PPVLand - Basketball Hub",USC Trojans vs. Michigan State Spartans
 https://gg.poocloud.in/FS1/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/e11e817922dc1a950a5155c9d5b9b055-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Golden State Warriors vs. LA Clippers
 https://gg.poocloud.in/laclippers/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/218a03bce47443405391d2372cda4469-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Utah Jazz vs. Portland Trail Blazers
-https://gg.poocloud.in/portlandtrailblazers/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/portlandtrailblazers/index.m3u8
