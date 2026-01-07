@@ -1,11 +1,9 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/c811f9475500f7053329f993c6db9e86-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Iowa Hawkeyes vs. Minnesota Golden Gophers
-https://gg.poocloud.in/BTN/index.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/4a854de9c983ffe8addfc39756843d80-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Texas Tech Red Raiders vs. Houston Cougars
 https://gg.poocloud.in/FS1/index.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/3604599a71d84ff00c2c06f8f093f0ce-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Texas Longhorns vs. Tennessee Volunteers
-https://gg.poocloud.in/ESPN2/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/ESPN2/index.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/33bfe23df2673310ca17aadcfb5159a1-thumbnail.jpg" group-title="PPVLand - Basketball Hub",TCU Horned Frogs vs. Kansas Jayhawks
-https://gg.poocloud.in/ESPN/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/ESPN/index.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/30371b450c89b33978b7855c574e0538-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Dallas Mavericks vs. Sacramento Kings
-https://gg.poocloud.in/sacramentokings/index.m3u8
+https://gg.poocloud.in/sacramentokings/tracks-v1a1/mono.ts.m3u8
