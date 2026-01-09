@@ -7,3 +7,5 @@ https://gg.poocloud.in/orlandomagic/tracks-v1a1/mono.ts.m3u8
 https://gg.poocloud.in/washingtonwizards/index.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/02938aee83e12391be9429ce5b858d79-thumbnail.jpg" group-title="PPVLand - Basketball Hub",LA Clippers vs. Brooklyn Nets
 https://gg.poocloud.in/brooklynnets/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/8d9c8ebf44444f82960952fafd4ba7e3-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Oklahoma City Thunder vs. Memphis Grizzlies
+https://gg.poocloud.in/memphisgrizzlies/index.m3u8
