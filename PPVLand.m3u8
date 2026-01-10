@@ -1,27 +1,25 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/3ee0b4f51125cb06b7ef7352f07a91c0-thumbnail.jpg" group-title="PPVLand - Basketball Hub",DePaul Blue Demons vs. UConn Huskies
-https://gg.poocloud.in/TNT/index.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/4158ffdbf0feb6b8576cb429bb7b8279-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Wisconsin Badgers vs. Michigan Wolverines
 https://gg.poocloud.in/CBS/index.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/a22e2edc234f0aef96797c92c3fb6089-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Houston Cougars vs. Baylor Bears
-https://gg.poocloud.in/Peacock/index.m3u8
+https://gg.poocloud.in/Peacock/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/7ecf8c81b0157955a8ef8f5a7ef5c99a-thumbnail.jpg" group-title="PPVLand - Basketball Hub",LSU Tigers vs. Vanderbilt Commodores
 https://gg.poocloud.in/SECN/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/1b962fd3ff21a43aa40900096b5a51bc-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Penn State Nittany Lions vs. Purdue Boilermakers
-https://gg.poocloud.in/BTN/index.m3u8
+https://gg.poocloud.in/BTN/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/8642bd4fb56b12e2d26ba4680ed12952-thumbnail.jpg" group-title="PPVLand - Basketball Hub",SMU Mustangs vs. Duke Blue Devils
-https://gg.poocloud.in/ESPN/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/ESPN/index.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/05fee289a867d85bc507e12ae92c1a61-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Georgia Bulldogs vs. South Carolina Gamecocks
 https://gg.poocloud.in/ESPN2/index.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/9eba4359a1726c54e7c3d3eb9d7e5b41-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Stanford Cardinal vs. Virginia Cavaliers
 https://gg.poocloud.in/CW/index.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/e4325f19f7bbff03d39b05693a1604bf-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Arizona Wildcats vs. TCU Horned Frogs
-https://gg.poocloud.in/ESPN/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/ESPN/index.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/0dea87e8e74475201b6292be4c4f199d-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Oklahoma State Cowboys vs. Iowa State Cyclones
 https://gg.poocloud.in/ESPN2/index.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/fc28ec1d65624809c8bf9407938701e0-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Arkansas Razorbacks vs. Auburn Tigers
-https://gg.poocloud.in/ESPN/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/ESPN/index.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/3dd84b697abbea2a9526f65e94cca81c-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Texas Longhorns vs. Alabama Crimson Tide
-https://gg.poocloud.in/ESPN/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/ESPN/index.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/b28bb5fa3137a4535035b3476de20f0d-thumbnail.jpg" group-title="PPVLand - Basketball Hub",BYU Cougars vs. Utah Utes
-https://gg.poocloud.in/ESPN/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/ESPN/index.m3u8
