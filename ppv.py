@@ -96,7 +96,7 @@ async def main():
     
     async with async_playwright() as p:
         # 使用 Firefox 并模拟真实环境
-        browser = await p.firefox.launch(headless=True) # 调试建议设为 False
+        browser = await p.firefox.launch(headless=False) # 调试建议设为 False
         context = await browser.new_context(
             user_agent=UA,
             viewport={'width': 1280, 'height': 720},
